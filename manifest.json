@@ -1,7 +1,7 @@
 {
   "name": "BudgetFlow",
   "short_name": "BudgetFlow",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f1a",
   "theme_color": "#0f0f1a",
